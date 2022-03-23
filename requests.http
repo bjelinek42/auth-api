@@ -17,3 +17,7 @@ Content-Type: application/json
   "email": "test@test.com",
   "password": "password"
 }
+
+###
+GET http://localhost:3000/dogs
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE2NDgxMzM2MjB9.FaFFhj8RK_Raq-WuOMuRoe1wjxTE-sR3RUuQ14UgvNU
